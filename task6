@@ -1,0 +1,15 @@
+Implementing Full Adder using VSDSquadron Mini
+
+Components Required:
+VSDSquadron Mini
+Push Buttons for Input of binary data
+2 LEDs for displaying the Output
+Breadboard
+Jumper Wires
+VS Code for Software Development
+PlatformIO multi framework professional IDE
+
+Hardware Connections:
+Input: Three input of single bit are connected to the GPIO pins of VSDSquadron Mini via push buttons mounted on the breadboard.
+Outputs: Two LEDs are connected to display the result of Full Adder
+The GPIO pins are configured according to the Reference Mannual, ensuring the correct flow of signals between the components
