@@ -27,3 +27,12 @@ MAIL ID : rvit22bec041.rvitm@rvei.edu.in
 [TASK 5](https://github.com/brunda-yadav/samsung-riscv/commit/91abcc0d36d531463701f11eb0d3fecfef235621)
 
 [TASK 6](https://github.com/brunda-yadav/samsung-riscv/commit/9765aa893649410a371dcc504503140a4d78101b)
+
+![full adder ckt](https://github.com/user-attachments/assets/f01616af-534a-40f8-b3c7-ddb0eec3ae2d)
+
+
+https://github.com/user-attachments/assets/98e67ee5-3d72-4c30-b751-104779058d36
+
+
+
+
