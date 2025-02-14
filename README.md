@@ -6,6 +6,8 @@ The RISC-V Talent Development Program, powered by Samsung Semiconductor India Re
 BASIC DETAILS
 ---
 NAME: P BRUNDA YADAV 
+
 COLLEGE: RV INSTITUTE OF TECHNOLOGY AND MANAGEMENT
+
 MAIL ID : rvit22bec041.rvitm@rvei.edu.in
 
